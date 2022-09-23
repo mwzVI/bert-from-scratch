@@ -1,2 +1,2 @@
 # bert-from-scratch
-bert from scratch on Urdu mini oscar corpus
+Using the OSCAR-mini Urdu corpus to train a BERT model from scratch
